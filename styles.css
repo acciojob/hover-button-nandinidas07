@@ -6,7 +6,7 @@
 	border-radius:30px;
 	border:none;
 }
-button:hover{
+#btn:hover{
 	background-color:black;
 	color:yellow;
 }
